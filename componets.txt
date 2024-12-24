@@ -1,0 +1,11 @@
+* user able to login the system uisng OAuth
+* user need to search specific location and system need to respond closest 
+  park with available date
+* when user pay for the safari notificaation must send to the driver
+* user able to booking safari
+* user able to give feedback
+* behind scene all the park must be connect
+
+
+*  Actors - user
+            administrator
